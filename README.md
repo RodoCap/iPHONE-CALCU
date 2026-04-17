@@ -50,7 +50,7 @@ Este proyecto me permitió practicar:
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/iphone-calculator.git
+git clone https://github.com/RodoCap/iPHONE-CALCU.git
 ```
 
 2. Entra a la carpeta:
