@@ -1,19 +1,19 @@
-# 🧮 iPhone Calculator - Python
+# 愛 iPhone Calculator - Python
 
 Una calculadora con interfaz gráfica desarrollada en **Python** usando `tkinter`, inspirada en el diseño minimalista de la calculadora de iPhone.
 
 ---
 
-## ✨ Demo
+##  Demo
 
 ![Vista previa](img/calculadora.png)
 
 ---
 
-## 🚀 Características
+## 經過 Características
 
-* 🎨 Interfaz moderna estilo iPhone (modo oscuro)
-* 🔢 Operaciones básicas:
+*  Interfaz moderna estilo iPhone (modo oscuro)
+*  Operaciones básicas:
 
   * Suma (+)
   * Resta (-)
@@ -26,7 +26,7 @@ Una calculadora con interfaz gráfica desarrollada en **Python** usando `tkinter
 
 ---
 
-## 🧠 Lo que aprendí
+## 這 Lo que aprendí
 
 Este proyecto me permitió practicar:
 
@@ -45,7 +45,7 @@ Este proyecto me permitió practicar:
 
 ---
 
-## 📦 Instalación y uso
+## Instalación y uso
 
 1. Clona el repositorio:
 
@@ -80,7 +80,7 @@ iphone-calculator/
 
 ---
 
-## 🔧 Mejoras futuras
+## 工程 Mejoras futuras
 
 * Implementar funcionamiento completo del botón (%)
 * Agregar funcionalidad (+/-)
@@ -91,7 +91,7 @@ iphone-calculator/
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
 
 Desarrollado por **[Rodolfo Manga Saurith]**
 
