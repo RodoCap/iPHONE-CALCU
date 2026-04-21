@@ -72,7 +72,7 @@ python calculadora.py
 ## 📁 Estructura del proyecto
 
 ```bash
-iphone-calculator/
+iPHONE-CALCU/
 │
 ├── calculadora.py
 ├── README.md
