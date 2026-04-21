@@ -12,17 +12,19 @@ Una calculadora con interfaz gráfica desarrollada en **Python** usando `tkinter
 
 ## 經過 Características
 
-*  Interfaz moderna estilo iPhone (modo oscuro)
-*  Operaciones básicas:
+- Interfaz moderna estilo iPhone (modo oscuro)
 
-  * Suma (+)
-  * Resta (-)
-  * Multiplicación (*)
-  * División (/)
-* 🟰 Botón de igual integrado
-* ⌫ Botón de borrado (backspace)
-* 🧹 Botón AC para limpiar todo
-* ⚠️ Manejo de errores (ej: divisiones inválidas)
+- Operaciones básicas:
+  - Suma (+)
+  - Resta (-)
+  - Multiplicación (*)
+  - División (/)
+
+- Botón de igual (=)
+- Botón de borrado (backspace)
+- Botón AC para limpiar todo
+- Manejo de errores (ej: divisiones inválidas)
+
 
 ---
 
