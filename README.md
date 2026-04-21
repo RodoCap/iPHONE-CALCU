@@ -58,7 +58,7 @@ git clone https://github.com/RodoCap/iPHONE-CALCU.git
 2. Entra a la carpeta:
 
 ```bash
-cd iphone-calculator
+cd iPHONE-CALCU
 ```
 
 3. Ejecuta el programa:
